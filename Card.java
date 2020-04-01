@@ -4,7 +4,7 @@ public class Card {
 	String suit;
 	int value;
 
-	// Constructor
+	// Constructor for a card object
 	Card(String r, String s) {
 		rank = r;
 		suit = s;
